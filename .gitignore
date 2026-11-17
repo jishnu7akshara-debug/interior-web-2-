@@ -1,0 +1,8 @@
+# Temporary / discarded assets
+_to_delete/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
